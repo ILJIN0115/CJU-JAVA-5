@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Main5 {
     public Main5() {
     }
